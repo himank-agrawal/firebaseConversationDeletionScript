@@ -1,0 +1,11 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "firebase-admin": "^5.8.2",
+    "firebase-functions": "^0.8.1"
+  },
+  "private": true,
+  "devDependencies": {
+  }
+}
